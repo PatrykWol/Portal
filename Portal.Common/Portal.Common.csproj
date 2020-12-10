@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="EntityFramework" Version="6.4.4" />
+      <PackageReference Include="FluentValidation.AspNetCore" Version="9.0.0-preview5" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="4.1.1" />
+      <PackageReference Include="Microsoft.NETCore.App" Version="2.2.8" />
+      <PackageReference Include="MySql.Data" Version="8.0.20" />
+      <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.20" />
+      <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+      <PackageReference Include="System.Net.Http" Version="4.3.4" />
+    </ItemGroup>
+
+</Project>

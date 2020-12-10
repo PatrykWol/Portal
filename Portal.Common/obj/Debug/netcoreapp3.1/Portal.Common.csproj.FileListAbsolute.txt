@@ -1,0 +1,10 @@
+D:\Programowanie\Portal\Portal.Common\bin\Debug\netcoreapp3.1\Portal.Common.deps.json
+D:\Programowanie\Portal\Portal.Common\bin\Debug\netcoreapp3.1\Portal.Common.dll
+D:\Programowanie\Portal\Portal.Common\bin\Debug\netcoreapp3.1\Portal.Common.pdb
+D:\Programowanie\Portal\Portal.Common\obj\Debug\netcoreapp3.1\Portal.Common.csprojAssemblyReference.cache
+D:\Programowanie\Portal\Portal.Common\obj\Debug\netcoreapp3.1\Portal.Common.AssemblyInfoInputs.cache
+D:\Programowanie\Portal\Portal.Common\obj\Debug\netcoreapp3.1\Portal.Common.AssemblyInfo.cs
+D:\Programowanie\Portal\Portal.Common\obj\Debug\netcoreapp3.1\Portal.Common.dll
+D:\Programowanie\Portal\Portal.Common\obj\Debug\netcoreapp3.1\Portal.Common.pdb
+D:\Programowanie\Portal\Portal.Common\bin\Debug\netcoreapp3.1\Portal.Common.runtimeconfig.json
+D:\Programowanie\Portal\Portal.Common\bin\Debug\netcoreapp3.1\Portal.Common.runtimeconfig.dev.json
